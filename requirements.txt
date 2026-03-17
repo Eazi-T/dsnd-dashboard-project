@@ -1,5 +1,5 @@
 scikit-learn==1.5.2
-sqlite_minutils==0.3.0
+sqlite_minutils
 python-fasthtml==0.12.50
 matplotlib==3.9.2
 scipy==1.14.1
@@ -8,7 +8,6 @@ pandas==2.2.3
 pytest
 flake8
 ipython
-wheel==0.46.3
-setuptools==82.0.1
+setuptools
 #### Add text to install the python-package here
 -e ./python-package
